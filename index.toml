@@ -30,6 +30,11 @@ hash = "eea6fdb20846bb6c27b70248b60ff676c5ba75b77a1aa9f69de7b9924e15acac"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "4118226e930848cce82855a4e5986b6684d538c52b5757c94efe243cf073b218"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "73326213899af53071fedc242ad04f0c8fc45cf7151d8fadcc35550970a72e51"
 metafile = true
@@ -37,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1aa222690c08ced58320e7266cbf42383d95e86f0fad567c264bf83ef79a7824"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "37e11b6189a9e299503493d99e790378e3263a253da8e52cb22f42676efbd769"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
 
 [[files]]
@@ -65,13 +80,28 @@ hash = "7eb393873758aef07d7123e526ab8986b656a58d0b8d01b7ac3c4825a1a02041"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "f7909025ba51d36c602efaf988449b66c1d44ab1bfce28ba7f0ad2806f077099"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "ba10e235a3e4baac4862bb74a9b8b2fe7d4f2465620255195fb661a5e9c968d7"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "00cc9440de56245592212f17c4c9103964db9c4e6754800ffa0d288a7d4f7a56"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "7a4aabc6906981c5401fb54ab640f246eea94cd5214efeffe280e1f6130b1530"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "ee70cd3021d7f27e3ee7062589cff4a96fc72607121b6849b80cdd8c3717ee1f"
 metafile = true
 
 [[files]]
@@ -135,8 +165,23 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "ff7862220a9b44c2301be1b8e9c6583ff82f1aa7c2038c5bd8edd4a208af22a4"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d6d8aa0f220ddf366133ce02184e30c1d8204f7741da97040344ab53bb4b98ce"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "fcd0dedf8a47b5e5e298cb9e26fe8f9bb3be8ac892e7ad238f8f781c0faaf2bd"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "4b4f84f47d0c98df783b95b6e11abb7471a7d0f8f688cb7ff0602d8e7cad33e3"
 metafile = true
 
 [[files]]
@@ -210,6 +255,16 @@ hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "274bd73eddbcb04995532c5f66e9e84e95d6367bd1f59a51ee3ae88c1ec0ec4d"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "ee72eb8f39a3d98dd6693a01a460a50ff88843270d23478f80413b609d1ade87"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "a2c888916c629defafc7a4af782f3c1791eeb4b51427d9573ef3efeeae882175"
 metafile = true
@@ -252,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "8759afe2cad50f4ceb1f10c426c0c1a8e88e9b58333d1e98f9e9940a72955cfe"
 metafile = true
 
 [[files]]
