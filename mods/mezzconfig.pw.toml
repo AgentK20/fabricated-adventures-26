@@ -1,0 +1,13 @@
+name = "MezzConfig"
+filename = "mezz_config-26.2-fabric-0.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/Wf6Q6vG2/mezz_config-26.2-fabric-0.6.6.jar"
+hash-format = "sha512"
+hash = "9acb5416542a53048a2a4dad38b3461107d74bd215c62a57f37d2ccd3a4c13c19480fbc56f38e2a9b4f49b0a27607c03ade90b2a35714f68d4cf2ceca9aed0a7"
+
+[update]
+[update.modrinth]
+mod-id = "7tEfOcA7"
+version = "Wf6Q6vG2"
