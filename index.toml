@@ -5,6 +5,16 @@ file = "README.md"
 hash = "a0db7ec67c6b630af702c439e4eae6bd60e1b289e28e5c606f822baf5715c2c6"
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+hash = "16bd3504d49fb73ab1bff30d8376b3ed5d104b39067c4d98d412806bd695ccae"
+metafile = true
+
+[[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "c9201d317617455db6ae95ccdffb1e58cdf619e51a88816f7916aaa0152b96da"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "8edb4dbf85fabc27cd35943a1bbfeca23b05c1330d4c20a6fb37d491752e0929"
 metafile = true
@@ -27,6 +37,16 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "eea6fdb20846bb6c27b70248b60ff676c5ba75b77a1aa9f69de7b9924e15acac"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "293bb651f219518cbe765600959589e66fac33e1356b030763c836eac123fcab"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "1d38d983a437afcbecb23a0dba5d9771ca32de4d0e027833c8ad20a7a5011cc1"
 metafile = true
 
 [[files]]
@@ -55,6 +75,11 @@ hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "c46f7eab633a9f6a75d3fd662e570b4d6f7a780c1ba359423c94b0136e3c6135"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
@@ -62,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "3e4d788583a36e9d145407fadce148f037e5229bff430f7dcd281d4d426c9ee6"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "f5d330c5d4d05f64d5efe47c2dfcb2f129390e28ee15d53c2cb9066dc379c099"
 metafile = true
 
 [[files]]
@@ -110,6 +140,11 @@ hash = "d902ede757ff3187dc7a5f27bb16a3162813c9bde8e41c605db6903d3c844a0d"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "96f4549a875c31caaf5bbacd9d89df51ecbe13947378e45b92e5211a2798ca86"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a75bdbac2acd303a8507a09da5d66d6451a147f1c6a967d81e3f0fb55084e828"
 metafile = true
@@ -150,8 +185,18 @@ hash = "2a7c249ab93b346796a78ad1a4e215dc86fac6a1008e4c15d2bb20a85071cfae"
 metafile = true
 
 [[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "05e7f55bff4132fbc69afa9baaebac1d0e1264ccb54053f67de8fd11d385b76a"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "57dcec4d226345a506ebcc889093e37ac6da9b0c94394275d962fb7df1f7f649"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+hash = "db0675267ff92255c6943a510fc644e271f90b1203b47bafe5d66b04ff1f3c29"
 metafile = true
 
 [[files]]
@@ -175,8 +220,18 @@ hash = "d6d8aa0f220ddf366133ce02184e30c1d8204f7741da97040344ab53bb4b98ce"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "764e24fad550b80bae1a06306d56d00cadd61fd7cf7b398e85cf3bd633d16bc7"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "fcd0dedf8a47b5e5e298cb9e26fe8f9bb3be8ac892e7ad238f8f781c0faaf2bd"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "240a05d64bb6adb0b305114ae42f5d635375c6f7c5c709c463f6afa557bda3ce"
 metafile = true
 
 [[files]]
@@ -190,13 +245,33 @@ hash = "8c4fe8cfa2eb63ba2df48772ce83ede8b07620f44482447bda564dbd317d51a0"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "562410f9f73d0608eee4815965f2a82fb5ec1ab117dc927ac9bf52550c739ee2"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "427ac639f77e4ed43b801c3597c959f96a054ecb8d531971c11f7d860748d45e"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "d834fa2fe24acc1b76b4ffa1cce5aa4eeb15e3ca050fa4187a85a2fa69fec0fd"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "27c2a0e81ab7d9ac13e368798f3a69ce75da9a273ee865afbcd2eecb61c36568"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "04ed3660cfc8b993efc21495b25c3e06c133102acd092f9768562311704453fd"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f44efc77c534e473a35e6b667f6f28fe26d797fa21e5eaa89eb683bce8311823"
 metafile = true
 
 [[files]]
@@ -222,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "bf43e03d1d118edf1cc975179b98dc6eb99676826fef6decce5cdc9f01897ea5"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "eb2372104f9fb3060620ef61979a4e3fc2e6112913b75c0419b4f26ef5ef1f37"
 metafile = true
 
 [[files]]
@@ -260,6 +340,11 @@ hash = "274bd73eddbcb04995532c5f66e9e84e95d6367bd1f59a51ee3ae88c1ec0ec4d"
 metafile = true
 
 [[files]]
+file = "mods/nrb.pw.toml"
+hash = "ac62674571553891b33d78fcc279e944d70693ad968b0d1aeb2aadba3c22e0e3"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "ee72eb8f39a3d98dd6693a01a460a50ff88843270d23478f80413b609d1ade87"
 metafile = true
@@ -267,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "a2c888916c629defafc7a4af782f3c1791eeb4b51427d9573ef3efeeae882175"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "2b0de3a642aa5b31e503589775754c58fe4ee76c2b006b219f236f83af75e4f6"
 metafile = true
 
 [[files]]
@@ -282,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5587d752a3b30750512779e21e0a5eb400d0657593d9ba8c392e157ec74c251c"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9823e4edb7cde19bea50da788d4284abb0c113de4a88ee7172c4963a68666930"
 metafile = true
 
 [[files]]
@@ -310,8 +405,18 @@ hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "879c8a6226e1215b7c47c5f7deb4614fcc8bb4fd4ba6b9320eed82e694513257"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "8759afe2cad50f4ceb1f10c426c0c1a8e88e9b58333d1e98f9e9940a72955cfe"
+metafile = true
+
+[[files]]
+file = "mods/untitled-duck-mod.pw.toml"
+hash = "1b54b69691d9d6eb207b219ec46eba56562090ba02ca7b982b4bf26fd1c6af56"
 metafile = true
 
 [[files]]

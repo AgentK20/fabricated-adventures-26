@@ -1,0 +1,13 @@
+name = "Fast Item Frames"
+filename = "FastItemFrames-v26.2.1-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsoeTIV0/versions/nPlbZt37/FastItemFrames-v26.2.1-mc26.2.x-Fabric.jar"
+hash-format = "sha512"
+hash = "9b6a85ddc3593e9fae18d63ce907d3a601f5c094bed02f9e26b452189d618b968f3b3d06f27a508b255cdd555bef26100c303dfeb251b70ae7965a12d6e0df4e"
+
+[update]
+[update.modrinth]
+mod-id = "FsoeTIV0"
+version = "nPlbZt37"
